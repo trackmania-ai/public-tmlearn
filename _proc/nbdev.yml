@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tmlearn"
+  site-url: "https://trackmania-ai.github.io/tmlearn/"
+  description: "Machine learning algorithm for Trackmania 2020"
+  repo-branch: master
+  repo-url: "https://github.com/trackmania-ai/tmlearn/tree/master/"
