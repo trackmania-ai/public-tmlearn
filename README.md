@@ -26,7 +26,7 @@ tmlearn is intended for Linux (tested on Ubuntu 23.04) and uses
 
 Have conda, tmenv, pytorch, torchvision installed.
 
-- Install tmenv from https://github.com/trackmania-ai/tmenv.
+- Install tmenv from https://github.com/trackmania-ai/public-tmenv.
 - I use miniconda to install conda
   https://docs.conda.io/en/latest/miniconda.html.
 - I install pytorch and torchvision following
